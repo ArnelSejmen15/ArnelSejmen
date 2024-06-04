@@ -1,0 +1,69 @@
+body {
+    background-color: #93ccf8cf;
+    color: 666633;
+}
+.h{
+height: 1px;
+width: 100%;
+border: 0 none;
+margin-right:auto;
+margin-Left: auto;
+margin-top: 5px; 
+margin-bottom: 5px;
+background-color: rgb(11, 11, 11);
+}
+.h1{
+    height: 3px;
+    width: 100%;
+    border: 0 none;
+    margin-right:auto;
+    margin-Left: auto;
+    margin-top: 5px; 
+    margin-bottom: 5px;
+    background-color: rgb(67, 103, 235);
+    }
+h2{
+color: rgb(19, 191, 239);
+font-family: aller;
+font-size: 45px;
+}
+.naslov{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
+.text{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    
+
+}
+.texttt{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    text-decoration: underline;
+
+}
+.textt{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
+a{
+
+    font-size: 19px;
+    text-decoration: none;
+
+}
+.textn{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
